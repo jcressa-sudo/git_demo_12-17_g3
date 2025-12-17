@@ -9,9 +9,15 @@
   "attributes": {
     "lastModification": {
       "actor": "ad",
+<<<<<<< HEAD
       "timestamp": "2025-12-17T18:27:21Z"
     },
     "lastModificationSignature": "8f8da630f70e41942681945f0a3a13ea7d35abd88ae330c651b40e2b2bfd586d",
+=======
+      "timestamp": "2025-12-17T18:23:41Z"
+    },
+    "lastModificationSignature": "4b308591099ffb50a0776bb73e3a91cf58597fc5565ae770bd4e08bb51f932a9",
+>>>>>>> 807af90cfb1e7be4a23873a1e2c8bfdc681d7f40
     "enabled": true
   }
 }

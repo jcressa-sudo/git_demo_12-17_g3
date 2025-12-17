@@ -1,5 +1,5 @@
 {
   "liveEventLimit": 5,
   "notifyInitialEvents": false,
-  "startupSuppressionTime": 10
+  "startupSuppressionTime": 9
 }

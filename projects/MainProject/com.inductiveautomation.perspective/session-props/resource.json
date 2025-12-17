@@ -7,10 +7,17 @@
     "props.json"
   ],
   "attributes": {
+<<<<<<< HEAD
     "lastModificationSignature": "a34e0d79b53df9bd78f578af24012aa4fa9a1ebd7daccf5651bb2b9eb4b82f1a",
     "lastModification": {
       "actor": "admin",
       "timestamp": "2025-12-17T18:39:11Z"
+=======
+    "lastModificationSignature": "0753f5b24cae275426d40cc05d34ec4799155d3b848ca1d797f5013de18c9ff7",
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2025-12-17T18:43:15Z"
+>>>>>>> 807af90cfb1e7be4a23873a1e2c8bfdc681d7f40
     }
   }
 }
